@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drawing-app/static/css/main.c1a43ebe.css",
+    "main.js": "/drawing-app/static/js/main.9120ad8a.js",
+    "static/js/787.f342a3d8.chunk.js": "/drawing-app/static/js/787.f342a3d8.chunk.js",
+    "index.html": "/drawing-app/index.html",
+    "main.c1a43ebe.css.map": "/drawing-app/static/css/main.c1a43ebe.css.map",
+    "main.9120ad8a.js.map": "/drawing-app/static/js/main.9120ad8a.js.map",
+    "787.f342a3d8.chunk.js.map": "/drawing-app/static/js/787.f342a3d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a43ebe.css",
+    "static/js/main.9120ad8a.js"
+  ]
+}
